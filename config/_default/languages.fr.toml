@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "fr"
+languageName = "Français"
+weight = 1
+title = "RavenBreach"
+
+[params]
+  displayName = "FR"
+  isoCode = "fr"
+  rtl = false
+  dateFormat = "2 January 2006"
+  logo = "img/raven_actual.png"
+  secondaryLogo = "img/raven_actual_inverse.png"
+  description = "J'apprends la cybersec. Je pwn des box, mais c'est surtout elles qui pwn mon sommeil. Voici mes walkthrough et mes tips (oui, j'ose)."
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+   name = "RavenBreach"
+   email = "ravenbreach@gmail.com"
+   image = "img/raven_padding.png"
+   imageQuality = 96
+   headline = "Juste un mec qui apprends"
+   bio = "J'apprends la cybersec. Je pwn des box, mais c'est surtout elles qui pwn mon sommeil. Voici mes walkthrough et mes tips (oui, j'ose)."
+   links = [
+     { github = "https://github.com/MohamedOutougane" },
+     { linkedin = "https://www.linkedin.com/in/mohamed-outougane-834175224/" },
+     { youtube = "https://www.youtube.com/@Raven_Breach" },
+   ]
