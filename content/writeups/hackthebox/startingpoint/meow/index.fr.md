@@ -1,11 +1,11 @@
 ---
 title: "Meow"
-date: 2025-01-31
+date: 2025-11-17
 description: "Comment utiliser une mauvaise configuration Telnet."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Nmap", "Telnet"]
+tags: ["Misconfiguration", "Protocol","Nmap", "Telnet", "Linux"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 
