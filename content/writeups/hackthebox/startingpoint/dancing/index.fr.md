@@ -5,7 +5,7 @@ description: "Découverte du protocole SMB et des partages réseaux."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Protocol", "Nmap", "SMB", "Windows"]
+tags: ["Misconfiguration", "Protocol", "Nmap", "SMB", "Windows", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 

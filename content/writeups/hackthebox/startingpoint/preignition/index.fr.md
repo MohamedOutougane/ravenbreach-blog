@@ -5,7 +5,7 @@ description: "Touchons un peu au web."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Web", "Nmap", "GoBuster", "Nginx", "Linux", "VIP", "Passwords"]
+tags: ["Misconfiguration", "Web", "Nmap", "GoBuster", "Nginx", "Linux", "VIP", "Passwords", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 

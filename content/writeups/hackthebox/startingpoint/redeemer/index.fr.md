@@ -5,7 +5,7 @@ description: "Découverte du service de base de données Redis."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Nmap", "Database", "Redis", "Linux"]
+tags: ["Misconfiguration", "Nmap", "Database", "Redis", "Linux", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 

@@ -5,7 +5,7 @@ description: "Découverte d'un service de base de données NoSQL."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Database", "Nmap", "MongoDB", "Linux", "VIP"]
+tags: ["Misconfiguration", "Database", "Nmap", "MongoDB", "Linux", "VIP", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 

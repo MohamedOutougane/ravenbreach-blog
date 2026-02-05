@@ -5,7 +5,7 @@ description: "Découverte du protocole RDP et de l'interface graphiue."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Protocol", "Nmap", "RDP", "Windows", "VIP"]
+tags: ["Misconfiguration", "Protocol", "Nmap", "RDP", "Windows", "VIP", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 

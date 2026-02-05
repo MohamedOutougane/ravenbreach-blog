@@ -5,7 +5,7 @@ description: "Comment utiliser une mauvaise configuration Telnet."
 draft: false
 
 # Tes taxonomies (correspondant à ton hugo.toml)
-tags: ["Misconfiguration", "Protocol","Nmap", "Telnet", "Linux"]
+tags: ["Misconfiguration", "Protocol","Nmap", "Telnet", "Linux", "Tier 0"]
 categories: ["Writeups", "Hack The Box", "Starting Point"]
 ---
 
