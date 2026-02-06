@@ -251,12 +251,15 @@ Le moment de vérité, on affiche le flag :
 
 La machine est ***pwned*** !
 
-<!-- ---
+---
 
 ## Pour aller plus loin
 
 ### Script automatisé
-Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+J'ai fait un script bash qui permet de récuperer automatiquement le flag de la box Dancing
+
+{{< github repo="MohamedOutougane/Dancing_Automated" showThumbnail=true >}}
+
 
 ### Rapport professionnel
-Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel !
