@@ -155,12 +155,15 @@ Ce qu’il faut retenir : **Redis** est extrêmement puissant mais ne possède p
 
 La machine est ***pwned*** !
 
-<!-- ---
+---
 
 ## Pour aller plus loin
 
 ### Script automatisé
-Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+J'ai fait un script bash qui permet de récuperer automatiquement le flag de la box Dancing
+
+{{< github repo="MohamedOutougane/Redeemer_Automated" showThumbnail=true >}}
+
 
 ### Rapport professionnel
-Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel !
