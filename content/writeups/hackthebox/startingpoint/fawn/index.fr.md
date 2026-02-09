@@ -162,12 +162,15 @@ Le fichier est bien présent. Il ne reste plus qu’à utiliser ``cat`` pour en 
 
 La machine est ***pwned*** !
 
-<!-- ---
+---
 
 ## Pour aller plus loin
 
 ### Script automatisé
-Ce n'est pas encore fait mais je prévois de faire un script automatisé !
+J'ai fait un script python qui permet de récuperer automatiquement le flag de la box Fawn
+
+{{< github repo="MohamedOutougane/Fawn_Automated" showThumbnail=true >}}
+
 
 ### Rapport professionnel
-Ce n'est pas encore fait mais je prévois de faire un rapport professionnel ! -->
+Ce n'est pas encore fait mais je prévois de faire un rapport professionnel !

@@ -22,7 +22,7 @@ title = "RavenBreach"
    headline = "Juste un mec qui apprends"
    bio = "J'apprends la cybersec. Je pwn des box, mais c'est surtout elles qui pwn mon sommeil. Voici mes walkthrough et mes tips (oui, j'ose)."
    links = [
-     { github = "https://github.com/RavenBreach" },
+     { github = "https://github.com/MohamedOutougane" },
      { linkedin = "https://www.linkedin.com/in/mohamed-outougane-834175224/" },
      { youtube = "https://www.youtube.com/@Raven_Breach" },
    ]
