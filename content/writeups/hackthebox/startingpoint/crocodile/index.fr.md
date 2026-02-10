@@ -1,6 +1,6 @@
 ---
 title: "Crocodile"
-date: 2026-02-09
+date: 2026-02-08
 description: "Quand des identifiants fuitent via un FTP mal configuré."
 draft: false
 
@@ -71,7 +71,7 @@ De retour sur notre terminal local, affichons le contenu de ces fichiers avec ``
 
 <img src="image5.png"/>
 
-On y trouve une liste d'utilisateurs (admin, aron, pills, etc.) et une liste de mots de passe. C'est une mine d'or !
+On y trouve une liste d'utilisateurs (admin, aron, pwnmeow, etc.) et une liste de mots de passe. C'est une mine d'or !
 
 ### Analyse page web
 Maintenant que nous avons des identifiants potentiels, que faire ? Le FTP ne semble servir qu'au stockage. Allons voir ce qui se passe sur le port 80 (le site web).
